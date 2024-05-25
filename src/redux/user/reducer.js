@@ -1,5 +1,5 @@
 import { IS_LOGGED } from "./actions";
-
+//comment
 const initialUser = {
   userLogged: false,
 };
